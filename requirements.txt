@@ -1,0 +1,7 @@
+altgraph==0.17.3
+pefile==2023.2.7
+Pillow==10.0.0
+pyinstaller==5.13.1
+pyinstaller-hooks-contrib==2023.7
+pywin32-ctypes==0.2.2
+tkinterdnd2==0.3.0
